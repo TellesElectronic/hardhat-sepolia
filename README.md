@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 Dirección del contrato en Sepolia: 0x699A4590e2E08622a741D0E4AC8962Db078b2b09
+Dirección de Etherscan: https://sepolia.etherscan.io/address/0x7004d5ca730287b34202364cd6717abd4c781663
